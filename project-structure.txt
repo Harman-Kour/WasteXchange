@@ -1,0 +1,13 @@
+waste-xchange/
+├── frontend/
+│   ├── package.json
+│   ├── vite.config.js
+│   └── tailwind.config.js
+├── server/
+│   ├── requirements.txt
+│   ├── main.py
+│   └── models/
+├── docker-compose.yml
+├── Dockerfile.frontend
+├── Dockerfile.backend
+└── .env.example
